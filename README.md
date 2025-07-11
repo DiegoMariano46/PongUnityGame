@@ -8,17 +8,14 @@ Este é um projeto simples do jogo Pong criado na Unity como parte de um exercí
 - Controle de jogador com teclado (W/S ou ↑/↓)
 - Oponente controlado por IA
 - Pontuação e detecção de gols
-- Power-ups aleatórios (bola maior, mais rápida, raquete maior)
-- Sistema de pausa com tecla ESC
-- Física aprimorada com "efeito" na bola ao rebater
-- Menu inicial básico
+- Power-ups aleatórios ( mais rápida)
 
 ## Controles
 
 - **W / S** ou **↑ / ↓**: Mover a raquete
 - **ESC**: Pausar o jogo
 
-## Feito com ❤️ com o auxílio do ChatGPT e Unity
+## Scripts feitos com o auxílio do ChatGPT e Unity
 
 ---
 
